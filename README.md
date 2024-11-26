@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cyberbullying Comment Classification
 
 This project is a web-based application designed to classify comments into two categories: **Cyberbullying** and **Not Cyberbullying**. The application uses machine learning models to analyze comments and predict whether they are instances of cyberbullying, specifically focusing on harmful or offensive language.
@@ -117,3 +118,6 @@ Copy code
 ### Notes:
 - Replace placeholders like `your-username` with your actual GitHub username or project details.
 - Ensure the `requirements.txt` file includes all necessary dependencies for smooth setup
+=======
+# cyberbullying-RNN_LSTM
+>>>>>>> 7f779febc510c7144896109eb9211d7dc7f6226d
